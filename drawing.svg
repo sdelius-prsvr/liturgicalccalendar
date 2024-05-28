@@ -1,0 +1,6 @@
+<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(.26458 0 0 .26458 44.892 48.531)" pointer-events="all" stroke="#000" stroke-miterlimit="10">
+  <path transform="rotate(-65.31,254.55,254.55)" d="m434.55 254.55c0 6.7-0.38 13.41-1.13 20.07l-48.29-5.42c0.54-4.86 0.82-9.76 0.82-14.65z" fill="#7142b8"/>
+  <path transform="rotate(-58.38,254.55,254.55)" d="m434.55 254.55c0 6.7-0.38 13.41-1.13 20.07l-127-14.25c0.22-1.94 0.33-3.88 0.33-5.82z" fill="#fff"/>
+ </g>
+</svg>
